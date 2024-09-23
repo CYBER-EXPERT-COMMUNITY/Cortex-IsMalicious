@@ -9,7 +9,7 @@ This project proposes an implementation of the API in TheHive, with a few improv
 ## 🧐 Features    
 
 - Run a cortex IsMalicious job on IP
-- - Run a cortex IsMalicious job on DOMAIN
+- Run a cortex IsMalicious job on DOMAIN
         
 ## 🛠️ Tech Stack
 - [python](https://python.org/)
@@ -82,9 +82,9 @@ As shown in the first line of the  Cortex_Parse_Prefetch.py file, you must point
 ## 🧑🏻‍💻 Usage Without Cortex
 Not available
 
-## 🧑🏻‍💻 Usage With Cortex
- ![alt text](img/image.png)       
-
+## 🧑🏻‍💻 Usage With Cortex/TheHive
+ ![alt text](img/thehive-example.png)       
+![alt text](img/cortex-example.png)
 ## 🧐 The Next Features :
 
 - Using api with credantials
