@@ -1,0 +1,18 @@
+{
+    "name": "CE_IsMalicious_Analyzer",
+    "author": "Hakim Djelili, CEO Cybert Expert",
+    "license": "AGPL-V3",
+    "url": "",
+    "version": "1.0",
+    "description": "",
+    "dataTypeList": ["ip","domain"],
+    "command": "Ismalicious/ismalicious.py",
+    "baseConfig": "CE_IsMalicious_Analyzer",
+    "config": {
+        "service": "IsMalicious",
+        "check_tlp": true
+    },
+    "registration_required": false,
+    "subscription_required": false,
+    "free_subscription": false
+}
